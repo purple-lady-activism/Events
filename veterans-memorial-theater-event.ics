@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//RSVP Event//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:vmt-davis-20260201@example.org
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=America/Los_Angeles:20260201T130000
+DTEND;TZID=America/Los_Angeles:20260201T150000
+SUMMARY:Event at Veteran's Memorial Theater
+DESCRIPTION:RSVP event at the Veteran's Memorial Theater in Davis, California.
+LOCATION:Veteran's Memorial Theater, 203 E 14th St, Davis, CA 95616
+END:VEVENT
+
+END:VCALENDAR
